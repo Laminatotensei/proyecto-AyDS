@@ -1,0 +1,32 @@
+﻿
+
+.EndFooter {
+  left: 0px;
+  bottom: 0px;
+  width: 100%;  
+}
+
+.Icono{
+  width:30px;
+  height:30px
+}
+
+.Fondo {
+  width:100%;
+  height: 600px;
+  background-image: url("../Imagenes/DeptoVentas.jpg");
+  background-repeat: no-repeat;
+  background-position-x:center;
+  background-position-y:top;
+}
+
+.FondoFIAD {
+  background-image: url("../Imagenes/FIAD.gif");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+.Top5{
+  top:45px;
+}
